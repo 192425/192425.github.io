@@ -104,15 +104,15 @@ $(function () {
         // 旗下站点
         const xf_site = {
             siteInfo: [
-                { name: 'thinrys网络', links: 'https://www.xfabe.com/', pic: 'assets/upload/blog_picture.jpg' },
-                { name: 'thinrys音乐播放器', links: 'https://music.xfyun.club/', pic: 'assets/upload/music_picture.jpg' },
+                { name: '小枫网络', links: 'https://www.xfabe.com/', pic: 'assets/upload/blog_picture.jpg' },
+                { name: '小枫音乐播放器', links: 'https://music.xfyun.club/', pic: 'assets/upload/music_picture.jpg' },
             ]
         }
 
         // 友联链接
         const xf_friend = {
             friendInfo: [
-                { qq: '1309595677', links: 'https://www.xfabe.com/', name: 'thinrys', sig: 'Hello World' },
+                { qq: '1809185784', links: 'https://www.xfabe.com/', name: '小枫', sig: 'Hello World' },
                 { qq: '169460169', links: 'JavaScript:;', name: '乐天', sig: '拟态5.0赞助商' },
             ]
         }
